@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "6491345193",
+    "firebase_url": "https://smartplant-9df1d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartplant-9df1d",
+    "storage_bucket": "smartplant-9df1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6491345193:android:7224093c88b5ea74c0e738",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbh1BmGKqK3s9782Au3-3EQA-FfB9gjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6491345193:android:5e01d735c90e8289c0e738",
+        "android_client_info": {
+          "package_name": "com.example.smart_plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbh1BmGKqK3s9782Au3-3EQA-FfB9gjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
